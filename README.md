@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/tevko/FEJStesting.svg)
+![Build Status](https://travis-ci.org/kyleladd/FEJStesting.svg)
 
 # FEJStesting
 Testing Front End Javascript with Karma, Jasmine, and Travis CLI
