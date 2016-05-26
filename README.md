@@ -10,3 +10,7 @@ Testing Front End Javascript with Karma, Jasmine, and Travis CLI
 - Karma
 - Jasmine
 - Travis CLI
+
+
+karma start my.conf.js --auto-watch
+karma run my.conf.js
